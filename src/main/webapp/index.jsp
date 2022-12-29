@@ -55,19 +55,19 @@
                     <p class="card-text">Text</p>
                 </div>
             </div>
-        </div>
-        <div class="card">
-            <img class="card-img-top" src="holder.js/100x180/" alt="">
-            <div class="card-body">
-                <h4 class="card-title">Title</h4>
-                <p class="card-text">Text</p>
+            <div class=" card">
+                <img src="" alt="">
+                <div class="card-body">
+                    <h4 class="card-title">Laravel</h4>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste suscipit optio laudantium recusandae, similique ducimus.</p>
+                </div>
             </div>
-        </div>
-        <div class="card">
-            <img class="card-img-top" src="holder.js/100x180/" alt="">
-            <div class="card-body">
-                <h4 class="card-title">Title</h4>
-                <p class="card-text">Text</p>
+            <div class="card">
+                <img class="card-img-top" src="holder.js/100x180/" alt="">
+                <div class="card-body">
+                    <h4 class="card-title">Title</h4>
+                    <p class="card-text">Text</p>
+                </div>
             </div>
         </div>
     </div>
